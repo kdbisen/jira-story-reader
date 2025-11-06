@@ -1,0 +1,7 @@
+summary,description,priority,assignee,parent,labels,components
+Test Case 1: Login Functionality,Verify that user can login with valid credentials,High,user@example.com,PROJ-123,testing,authentication,backend
+Test Case 2: Logout Functionality,Verify that user can logout successfully,Medium,user@example.com,PROJ-123,testing,authentication,backend
+Test Case 3: Password Reset,Verify password reset functionality works correctly,High,user@example.com,PROJ-123,testing,security,backend
+Test Case 4: User Registration,Verify new user registration process,Medium,user@example.com,PROJ-123,testing,authentication,frontend
+Test Case 5: Profile Update,Verify user can update their profile information,Low,user@example.com,PROJ-123,testing,user-management,frontend
+
